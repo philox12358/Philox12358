@@ -4,7 +4,7 @@
 
 ### 🔍 Interests & Tech  
 - 💻 **Code**: Python, C++
-- 🤖 **robotic simulation**: OpenAI Gym, IsaacSim, Pygame 
+- 🤖 **Robotic simulation**: OpenAI Gym, IsaacSim, Pygame 
 - 📚 **Learning**: Deep Reinforcement Learning (DRL), Robot Autonomous Decision Making
 
 
