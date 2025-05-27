@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Philox12358
+# 👋 Hi, I'm Jason Cheng
 
 **Introverted thinker** ✨ | **RL enthusiast** 🧠 | **Future robot architect** 🤖
 
-### 🔍 Interests & Tech  
+## 🔍 Interests & Tech  
 - 💻 **Code**: Python, C++
 - 🤖 **Robotic simulation**: OpenAI Gym, IsaacSim, Pygame 
 - 📚 **Learning**: Deep Reinforcement Learning (DRL), Robot Autonomous Decision Making
 
 
-### 🌱 Goal  
+## 🌱 Goal  
 - Publish papers or open source projects in the field of reinforcement learning 📜🔓  
 - Find like-minded friends to write code quietly together 👥💻  
 - Build a intelligent robot 🤖➡️❤️  
