@@ -16,7 +16,7 @@
 
 ## 📬 Reach Me
 - 📧 Email: philox12358@163.com  
-- Web:   [philox12358.github.io](philox12358.github.io)
+- 💻 Web:   [philox12358.github.io](philox12358.github.io)
 
 ## 🎵 Solitary moments  
 _"代码是我的音乐，算法是我的诗。"_ ✨  
